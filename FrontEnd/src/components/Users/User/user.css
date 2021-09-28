@@ -1,0 +1,113 @@
+#users .userItem {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-bottom: 0.5px solid lightgray;
+}
+#dialog {
+  background-color: #fdfefe;
+  color: red;
+}
+#detail_title {
+  display: flex;
+  color: red;
+  justify-content: space-between;
+  padding: 20px;
+}
+#edit_icon {
+  width: 16.001px;
+  height: 16px;
+  left: 1268px;
+  top: 314px;
+  overflow: visible;
+  transition: all 0.3s ease-out;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_User___Edit_user___annt.html;
+  cursor: pointer;
+}
+#icon_zone {
+  display: flex;
+  justify-content: space-between;
+}
+#Form_jo {
+  height: 180px;
+  width: 400px;
+  padding-left: 50px;
+}
+#header_jp {
+  background-color: #fafcfc;
+  height: 50px;
+  margin-top: 20px;
+}
+#button_zone {
+  margin-top: 20px;
+}
+#delete_btn {
+  margin-right: 20px;
+}
+#cancel_btn {
+  color: black;
+}
+#form_notice {
+  height: 150px;
+  width: 450px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+#header_notice {
+  display: flex;
+  justify-content: space-between;
+  color: red;
+  margin-bottom: 20px;
+}
+#cancel_notice {
+  border: 2px solid red;
+  padding: 1px;
+}
+#edit_icon_kh {
+  fill: rgba(112, 112, 112, 1);
+}
+.edit_icon_kh {
+  overflow: visible;
+  width: 16.001px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#edit_icon {
+  overflow: visible;
+  transition: all 0.3s ease-out;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_User___Edit_user___annt.html;
+  cursor: pointer;
+}
+#x-circle-fill {
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_User___disable_user.html;
+  cursor: pointer;
+}
+#x-circle-fill_kj {
+  fill: rgba(239, 241, 245, 1);
+  stroke: rgba(207, 35, 56, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.x-circle-fill_kj {
+  overflow: visible;
+  width: 17px;
+  height: 17px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.buttonUser {
+  margin-top: 10px;
+}

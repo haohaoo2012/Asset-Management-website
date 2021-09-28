@@ -1,0 +1,43 @@
+.mediaViewInfo {
+    --web-view-name: Home;
+    --web-view-id: Home;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-navigate-on-keypress: true;
+    --web-enable-deep-linking: true;
+    --web-page-font: Arial;
+  }
+  :root {
+    --web-view-ids: Home;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+  }
+  #Home {
+    width: 1920px;
+    height: 1080px;
+    font-family: Arial;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    --web-view-name: Home;
+    --web-view-id: Home;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-navigate-on-keypress: true;
+    --web-enable-deep-linking: true;
+    --web-page-font: Arial;
+  }
+  @keyframes fadein {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  

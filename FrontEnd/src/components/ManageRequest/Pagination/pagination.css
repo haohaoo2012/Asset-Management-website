@@ -1,0 +1,8 @@
+.pagination-request {
+  display: flex;
+  float: right;
+  position: absolute;
+  margin-left: 55rem;
+  /* left: 544px; */
+  /* top: 275px; */
+}

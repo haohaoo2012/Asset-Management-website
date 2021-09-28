@@ -1,0 +1,177 @@
+#create-new-user {
+    width: 400px;
+    margin: 200px 500px;
+}
+
+#create-user-title {
+    overflow: visible;
+    width: max-content;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    cursor: pointer;
+    line-height: 67px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(207,35,56,1);
+}
+
+#create-user-form {
+    width: fit-content;
+    height: fit-content;
+    overflow: visible;
+}
+
+#create-user-form .Gender {
+    display: flex;
+}
+
+#create-user-form .label {
+    overflow: visible;
+    width: 120px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+
+.Gender p {
+    margin-bottom: 0px;
+    margin-top: 15px;
+    width: 120px;
+    line-height: 35px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+
+.gender-check {
+    margin-top: 20px;
+    overflow: visible;
+    width: 280px;
+    height: 35px;  
+    display: flex;
+    justify-content: end;
+}
+
+.gender-check label {
+    margin-left: 10px;
+}
+
+.gender-check input {
+    /* remove standard background appearance */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    /* create custom radiobutton appearance */
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    padding: 6px;
+    /* background-color only for content */
+    background-clip: content-box;
+    border: 1px solid grey;
+    background-color: transparent;
+    border-radius: 50%;
+}
+
+.gender-check input:checked {
+    border: 6px solid rgba(227,12,24,1) ;
+}
+
+#create-user-form .input {
+    margin-top: 15px;
+    width: 280px;
+    height: 35px;
+    white-space: nowrap;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+    padding-left: 5px;
+}
+
+#create-new-user .button-flex {
+    margin-top: 25px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#create-new-user .save-btn {
+    width: 68px;
+    height: 37px;
+	margin-right: 10px;
+    background-color: rgba(227,12,24,1);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#create-new-user .save-btn:disabled {
+    width: 68px;
+    height: 37px;
+	margin-right: 10px;
+    background-color: rgb(167, 86, 90);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#create-new-user .cancel-btn {
+    width: 68px;
+    height: 37px;
+    margin-left: 10px;
+    background-color: rgba(250,252,252,1);
+    border: 0.5px solid rgba(33,37,41,1);
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+#create-user-form .red-input {
+    margin-top: 15px;
+    width: 280px;
+    height: 35px;
+    white-space: nowrap;
+    border: 2px solid rgba(227,12,24,1);
+    border-radius: 5px;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+    padding-left: 5px;
+}
+
+#create-user-form .show-error {
+    margin-left: 120px;
+    margin-top: 5px;
+    width: 280px;
+    white-space: nowrap;
+    color: rgba(227,12,24,1);
+}
+
+#create-user-form .none {
+    display: none;
+}

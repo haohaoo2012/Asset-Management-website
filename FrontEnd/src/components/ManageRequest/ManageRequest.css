@@ -1,0 +1,332 @@
+#Request_List-request {
+  left: 546px;
+  top: 168px;
+  position: absolute;
+  overflow: visible;
+  width: 114px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(207, 35, 56, 1);
+}
+#Filter_state-request {
+  position: absolute;
+  width: 210px;
+  height: 127px;
+  left: 548px;
+  top: 221px;
+  overflow: visible;
+}
+#Group_199-request {
+  position: absolute;
+  width: 210px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_336_hh-request {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336_hh-request {
+  position: absolute;
+  overflow: visible;
+  width: 210px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+}
+#Line_5_hi-request {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5_hi-request {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 173.708px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#funnel-fill-request {
+  fill: rgba(0, 0, 0, 1);
+}
+.funnel-fill-request {
+  overflow: visible;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  left: 184px;
+  top: 10px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#State_hk-request {
+  left: 11px;
+  top: 6px;
+  position: absolute;
+  overflow: visible;
+  width: 36px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Filter_assigned_date-request {
+  position: absolute;
+  width: 230px;
+  height: 127px;
+  left: 778px;
+  top: 221px;
+  overflow: visible;
+}
+#Group_199_h-request {
+  position: absolute;
+  width: 230px;
+  height: 35px;
+  left: 0px;
+  top: -1.5rem;
+  overflow: visible;
+}
+#Rectangle_336_h-request {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336_h-request {
+  position: absolute;
+  overflow: visible;
+  width: 230px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+}
+#Line_5_h-request {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5_h-request {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 190.252px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Returned_Date_h-request {
+  left: 11px;
+  top: 6px;
+  position: absolute;
+  overflow: visible;
+  width: 103px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#calendar-date-fill-request {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 202px;
+  top: 10px;
+  overflow: visible;
+}
+#Path_2-request {
+  fill: rgba(112, 112, 112, 1);
+}
+.Path_2-request {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 10.246px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_3-request {
+  fill: rgba(112, 112, 112, 1);
+}
+.Path_3-request {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  left: 0px;
+  top: 5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Search_bar-request {
+  position: absolute;
+  width: 255px;
+  height: 35px;
+  left: 1492px;
+  top: 206px;
+  overflow: visible;
+}
+#Rectangle_336-request {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_336-request {
+  position: absolute;
+  overflow: visible;
+  width: 255px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+}
+#Line_5-request {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5-request {
+  overflow: visible;
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 226.5px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#search-request {
+  fill: rgba(0, 0, 0, 1);
+}
+.search-request {
+  overflow: visible;
+  position: absolute;
+  width: 16.001px;
+  height: 15.998px;
+  left: 232px;
+  top: 11px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+/* Table */
+#request-table-request {
+  position: absolute;
+  width: 80rem;
+  /* height: 32px; */
+  left: 544px;
+  top: 275px;
+  overflow: visible;
+}
+/* Table */
+#request-table-request th {
+  text-decoration: none;
+}
+
+#Component_10__1704 {
+  width: 211px;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1705 {
+  width: 8rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1706 {
+  width: 5rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1707 {
+  width: 9rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1708 {
+  width: 9rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1709 {
+  width: 10rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__1710 {
+  width: 10rem;
+  height: 32px;
+  overflow: visible;
+}
+#Component_10__2934 {
+  width: 170px;
+  height: 32px;
+  overflow: visible;
+}
+.request-table-content {
+  overflow: hidden;
+}
+
+#request-table-request td {
+  /* word-wrap: break-word; */
+  max-width: 3rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.state-option-request {
+  margin-left: 0.5rem;
+  width: 12.5rem;
+}
+#input-date-request {
+  border: 1px solid black;
+}
+#input-search-request {
+  border: 1px solid black;
+  width: 16rem;
+  padding-right: 40px;
+}
+
+.sort-revert-request {
+  transform: rotate(180deg);
+}

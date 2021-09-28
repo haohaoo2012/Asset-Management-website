@@ -1,0 +1,21 @@
+#report {
+  margin: 200px 500px;
+  width: 100vh;
+}
+
+#report table {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+.head-title {
+  border-bottom: 1px solid black;
+}
+#title {
+  color: red;
+  margin-left: 20px;
+}
+#button_zone {
+  display: flex;
+  justify-content: flex-end;
+}

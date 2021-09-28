@@ -1,0 +1,464 @@
+#Create_New_Asset_fz {
+  left: 546px;
+  top: 168px;
+  position: absolute;
+  overflow: visible;
+  width: 165px;
+  white-space: nowrap;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_Asset___Create_Asset___dropdown.html;
+  cursor: pointer;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(207, 35, 56, 1);
+}
+#Form_f {
+  position: absolute;
+  width: 380px;
+  height: 354px;
+  left: 552px;
+  top: 219px;
+  overflow: visible;
+}
+#DOB_f {
+  position: absolute;
+  width: 378px;
+  height: 86px;
+  left: 0px;
+  top: 99px;
+  overflow: visible;
+}
+#Specification_f {
+  left: 0px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 92px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Rectangle_330_f {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_330_f {
+  position: absolute;
+  overflow: visible;
+  width: 280px;
+  height: 86px;
+  left: 98px;
+  top: 0px;
+  resize: none;
+}
+#State_f {
+  position: absolute;
+  width: 214px;
+  height: 45px;
+  left: 0px;
+  top: 252px;
+  overflow: visible;
+}
+#state_f {
+  position: absolute;
+  width: 112px;
+  height: 45px;
+  left: 102px;
+  top: 0px;
+  overflow: visible;
+}
+#available_f {
+  position: absolute;
+  width: 82px;
+  height: 21px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Label_f {
+  left: 19px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 64px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: HelveticaNeue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Radio_f {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+#Oval_f {
+  fill: rgba(207, 35, 56, 1);
+  stroke: rgba(207, 35, 56, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Oval_f {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Ellipse_3_fa {
+  fill: rgba(255, 255, 255, 1);
+}
+.Ellipse_3_fa {
+  position: absolute;
+  overflow: visible;
+  width: 6px;
+  height: 6px;
+  left: 5px;
+  top: 5px;
+}
+#not_available_fb {
+  position: absolute;
+  width: 112px;
+  height: 21px;
+  left: 0px;
+  top: 24px;
+  overflow: visible;
+}
+#Label_fc {
+  left: 19px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 94px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -4px;
+  text-align: left;
+  font-family: HelveticaNeue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Radio_fd {
+  position: absolute;
+  width: 100px;
+  height: 16px;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+#Oval_fe {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(182, 182, 182, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 10;
+  shape-rendering: auto;
+}
+.Oval_fe {
+  position: absolute;
+  overflow: visible;
+  width: 16px;
+  height: 16px;
+  left: 0px;
+  top: 0px;
+}
+#State_ff {
+  left: 0px;
+  top: 2px;
+  position: absolute;
+  overflow: visible;
+  width: 38px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Joined_Date_fg {
+  position: absolute;
+  width: 380px;
+  height: 35px;
+  left: 0px;
+  top: 199px;
+  overflow: visible;
+}
+#Installed_Date_fh {
+  left: 0px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 99px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Rectangle_330_fi {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_330_fi {
+  position: absolute;
+  overflow: visible;
+  width: 280px;
+  height: 35px;
+  left: 100px;
+  top: 0px;
+}
+#calendar-date-fill_fj {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 349px;
+  top: 10px;
+  overflow: visible;
+}
+#Path_2_fk {
+  fill: rgba(112, 112, 112, 1);
+}
+.Path_2_fk {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 10.246px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Path_3_fl {
+  fill: rgba(112, 112, 112, 1);
+}
+.Path_3_fl {
+  overflow: visible;
+  position: absolute;
+  width: 16px;
+  height: 11px;
+  left: 0px;
+  top: 5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Joined_Date_fm {
+  position: absolute;
+  width: 378px;
+  height: 35px;
+  left: 0px;
+  top: 49px;
+  overflow: visible;
+}
+#Category_fn {
+  left: 0px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 66px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Path_8_fo {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Path_8_fo {
+  overflow: visible;
+  position: absolute;
+  width: 280px;
+  height: 35px;
+  left: 98px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition: all 0.3s ease-out;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_Asset___Create_Asset___dropdown.html;
+  cursor: pointer;
+}
+#Cancel_btn_fp {
+  position: absolute;
+  width: 82px;
+  height: 37px;
+  left: 296px;
+  top: 317px;
+  overflow: visible;
+  transition: all 0.3s ease-out;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_Asset.html;
+  cursor: pointer;
+}
+#Secondary__6C757D_fq {
+  fill: transparent;
+  stroke: rgba(108, 117, 125, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Secondary__6C757D_fq {
+  position: absolute;
+  overflow: visible;
+  width: 82px;
+  height: 37px;
+  left: 0px;
+  top: 0px;
+}
+#Cancel_fr {
+  left: 16px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 51px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(108, 117, 125, 1);
+}
+#Save_btn_fs {
+  position: absolute;
+  width: 68px;
+  height: 37px;
+  left: 198px;
+  top: 317px;
+  overflow: visible;
+}
+#Primary__007BFF_ft {
+  fill: rgba(233, 66, 77, 1);
+  stroke: rgba(207, 35, 56, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Primary__007BFF_ft {
+  overflow: visible;
+  position: absolute;
+  width: 68px;
+  height: 37px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Save_fu {
+  left: 16px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 37px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+}
+#Name_fw {
+  position: absolute;
+  width: 378px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Name_fx {
+  left: 0px;
+  top: 9px;
+  position: absolute;
+  overflow: visible;
+  width: 44px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue, Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(33, 37, 41, 1);
+}
+#Rectangle_330_fx {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_330_fx {
+  position: absolute;
+  overflow: visible;
+  width: 280px;
+  height: 35px;
+  left: 98px;
+  top: 0px;
+}
+#icondropdown_arrow_fa {
+  fill: rgba(112, 112, 112, 1);
+}
+.icondropdown_arrow_fa {
+  overflow: visible;
+  position: absolute;
+  width: 12px;
+  height: 6px;
+  left: 350px;
+  top: 64px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+/* .my_category {
+  width: 280px !important;
+} */
+

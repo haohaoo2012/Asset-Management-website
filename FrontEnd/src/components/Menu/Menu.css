@@ -1,0 +1,545 @@
+#Menu_mis {
+  position: absolute;
+  width: 262px;
+  height: 370px;
+  left: 138px;
+  top: 275px;
+  overflow: visible;
+}
+#Report_mit {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 310px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Report.html;
+  cursor: pointer;
+}
+#Path_1_miu {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_miu {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Report_miv {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 65px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+#Request_for_Returning_miw {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 248px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Request_for_returning.html;
+  cursor: pointer;
+}
+#Path_1_mix {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_mix {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Request_for_Returning_miy {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 209px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+#Manage_Assignment_miz {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 186px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_Assignment.html;
+  cursor: pointer;
+}
+#Path_1_mi {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_mi {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_Assignment_mi {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 193px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+#Manage_Asset_mi {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 124px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_Asset.html;
+  cursor: pointer;
+}
+#Path_1_mja {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_mja {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_Asset_mja {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 133px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+#Manage_User_mi {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 62px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Manage_User.html;
+  cursor: pointer;
+}
+#Path_1_mjb {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_mjb {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_User_mja {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+#Home_mi {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Path_1_mjc {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_mjc {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Home_mja {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 58px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+#Logo_mjb {
+  position: absolute;
+  width: 248px;
+  height: 120px;
+  left: 138px;
+  top: 121px;
+  overflow: visible;
+}
+#Online_Asset_Management_mjc {
+  left: 0px;
+  top: 93px;
+  position: absolute;
+  overflow: visible;
+  width: 249px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(207, 35, 56, 1);
+}
+#Logo_mjd {
+  position: absolute;
+  width: 92px;
+  height: 93px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+
+/* report active */
+#Report_k {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 310px;
+  overflow: visible;
+}
+#Path_1_la {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_la {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Report_la {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 65px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+/* home inactive */
+#Home {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  --web-animation: fadein 0.3s ease-out;
+  --web-action-type: page;
+  --web-action-target: Home.html;
+  cursor: pointer;
+}
+#Path_1_lj {
+  fill: rgba(239, 241, 245, 1);
+}
+.Path_1_lj {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Home_lk {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 58px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(33, 37, 41, 1);
+}
+
+/* Manage assignment active */
+#Manage_Assignment_m {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 186px;
+  overflow: visible;
+}
+#Path_1_n {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_n {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_Assignment_o {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 193px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+/* request for returning active */
+#Request_for_Returning_cf {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 248px;
+  overflow: visible;
+}
+#Path_1_cg {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_cg {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Request_for_Returning_ch {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 209px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+/* manage asset active */
+#Manage_Asset_fo {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 124px;
+  overflow: visible;
+}
+#Path_1_fp {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_fp {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_Asset_fq {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 133px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+#Manage_User_jl {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 62px;
+  overflow: visible;
+}
+#Path_1_jr {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_jr {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_User_jm {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+/* manage user active */
+#Manage_User_jl {
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 62px;
+  overflow: visible;
+}
+#Path_1_jr {
+  fill: rgba(207, 35, 56, 1);
+}
+.Path_1_jr {
+  overflow: visible;
+  position: absolute;
+  width: 262px;
+  height: 60px;
+  left: 0px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Manage_User_jm {
+  left: 22px;
+  top: 18px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  white-space: nowrap;
+  line-height: 24px;
+  margin-top: -2px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}

@@ -1,0 +1,177 @@
+#Edit_Asset {
+    left: 546px;
+    top: 168px;
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    white-space: nowrap;
+    line-height: 67px;
+    margin-top: -23.5px;
+    text-align: left;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(207,35,56,1);
+}
+#Form_fsc {
+    position: absolute;
+    width: 380px;
+    height: 401px;
+    left: 552px;
+    top: 219px;
+    overflow: visible;
+}
+#Specification_fsd {
+    position: absolute;
+    width: 378px;
+    height: 86px;
+    left: 0px;
+    top: 99px;
+    overflow: visible;
+}
+
+#State_fsh {
+    position: absolute;
+    width: 268px;
+    height: 94px;
+    left: 0px;
+    top: 232px;
+    overflow: visible;
+}
+
+#State_fs {
+    left: 0px;
+    top: 2px;
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+#Installed_Date-editAseset {
+    position: absolute;
+    width: 380px;
+    height: 35px;
+    left: 0px;
+    top: 172px;
+    overflow: visible;
+}
+
+#Category_fs {
+    position: absolute;
+    width: 378px;
+    height: 35px;
+    left: 0px;
+    top: 49px;
+    overflow: visible;
+}
+#Category_fta {
+    left: 0px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 66px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+
+#Cancel_btn_fte {
+    position: absolute;
+    width: 82px;
+    height: 37px;
+    left: 296px;
+    top: 364px;
+    overflow: visible;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Manage_Asset.html;
+    cursor: pointer;
+}
+
+#Cancel_ftg {
+    left: 16px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(108,117,125,1);
+}
+#Save_btn_fth {
+    position: absolute;
+    width: 68px;
+    height: 37px;
+    left: 198px;
+    top: 364px;
+    overflow: visible;
+}
+
+#Save_ftj {
+    left: 16px;
+    top: 9px;
+    position: absolute;
+    overflow: visible;
+    width: 37px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(255,255,255,1);
+}
+#Name-editAsset {
+    position: absolute;
+    width: 378px;
+    height: 35px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#state-check-editAsset{
+    position:relative;
+    left: 70px;
+}
+
+#specification_textarea-editAsset{
+    resize: none;
+    height: 4rem;
+    position:relative;
+    left:53px;
+}
+#input-Installed_Date-editAsset{
+    position: relative;
+    top:-35px;
+    left: 120px;
+}
+#label-date-editAsset{
+    width: 125px;
+}
+#input-category-editAsset{
+    position: relative;
+    left: 53px;
+}
+#input-name-editAsset{
+    position: relative;
+    left: 53px;
+}
+#radiocheck-editAsset:checked {
+background-color: red;
+}

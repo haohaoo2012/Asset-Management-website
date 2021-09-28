@@ -1,0 +1,54 @@
+#narbav_ecg {
+  position: absolute;
+  width: 1700px;
+  height: 151px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+#Rectangle_329_ech {
+  fill: rgba(207, 35, 56, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_329_ech {
+  position: absolute;
+  overflow: visible;
+  width: 100vh;
+  height: 72px;
+  left: 0px;
+  top: 0px;
+}
+#Manage_Assignment__Create_New__eci {
+  left: 138px;
+  top: 16px;
+  position: absolute;
+  overflow: visible;
+  width: 429px;
+  white-space: nowrap;
+  line-height: 67px;
+  margin-top: -23.5px;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgba(250, 252, 252, 1);
+}
+
+#narbav_ecg .dropdown {
+  position: absolute;
+  right: 138px;
+  top: 16px;
+  overflow: visible;
+}
+
+#narbav_ecg .username {
+  color: white;
+  font-weight: bolder;
+  font-size: 18px;
+}

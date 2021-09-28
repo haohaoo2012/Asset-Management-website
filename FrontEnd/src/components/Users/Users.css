@@ -1,0 +1,206 @@
+#users {
+  margin: 200px 500px;
+  width: 100vh;
+}
+
+#users .title {
+  color: red;
+  text-align: left;
+  font-family: Segoe UI, Arial;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 30px;
+  position: absolute;
+  display: inline-block;
+  width: 100px;
+  left: -35px;
+  top: 5px;
+}
+
+#Search_bar {
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#right_search_bar {
+  display: flex;
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.roles {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 129px;
+}
+#name_search_zone {
+  width: 200px;
+}
+#users table {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+#users .headerUser {
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+}
+#filter_zone {
+  position: relative;
+  width: 50px;
+  top: 15px;
+}
+#type-input {
+  width: 120px;
+}
+#funnel-fill {
+  fill: rgba(0, 0, 0, 1);
+}
+.funnel-fill {
+  overflow: visible;
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  left: 95px;
+  top: 8px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.popover-type {
+  position: absolute;
+  margin-top: 15px;
+  margin-left: -35px;
+}
+#type_popover {
+  padding: 20px;
+}
+.type-item {
+  display: flex;
+  justify-content: space-between;
+}
+#search_icon1 {
+  position: absolute;
+  left: 170px;
+  top: 5px;
+}
+.check-box-type {
+  width: 20px;
+}
+.check-box-type:checked {
+  color: red;
+}
+.check-box-type:checked::after {
+  color: red;
+}
+#create_button1 {
+  background-color: #e30c18;
+  margin-left: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  margin-right: 60px;
+}
+.container1 {
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container1 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container1 input:checked ~ .checkmark1 {
+  background-color: white;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark1:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container1 input:checked ~ .checkmark1:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container1 .checkmark1:after {
+  left: 5px;
+  top: 1px;
+  width: 5px;
+  height: 16px;
+  border: solid red;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#Line_5 {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_5 {
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 165px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+#Line_6 {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_6 {
+  position: absolute;
+  width: 1px;
+  height: 33px;
+  left: 90px;
+  top: 0.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}

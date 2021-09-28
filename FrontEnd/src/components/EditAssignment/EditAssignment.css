@@ -1,0 +1,106 @@
+#Form-edit-assignment {
+  position: absolute;
+  width: 350px;
+  height: 279px;
+  left: 543px;
+  top: 219px;
+  overflow: visible;
+}
+#title_form-edit-assignment {
+  color: red;
+  margin-bottom: 40px;
+}
+/* #label {
+  display: block;
+  width: 100px;
+  margin-inline-end: 100px;
+}
+label {
+  width: fit-content;
+} */
+.edit-assignment-label {
+  width: fit-content;
+}
+#form-edit-assignment-2 {
+  display: block;
+}
+.field-edit-assignment {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  position: relative;
+}
+.input-field-edit-assignment {
+  width: 250px;
+}
+#note-edit-assignment {
+  height: 70px;
+}
+#button-zone-edit-assignment {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+#bt_save-edit-assignment {
+  margin-right: 30px;
+}
+#search_icon-edit-assignment {
+  position: absolute;
+  left: 325px;
+  top: 5px;
+}
+#name-dialog-edit-assignment {
+  color: red;
+}
+.table-edit-assignment {
+  width: 500px;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.th-edit-assignment {
+  text-decoration: underline;
+}
+.tr-edit-assignment {
+  margin-top: 20px;
+}
+
+#dialog-title-edit-assignment {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+#search_user_icon-edit-assignment {
+  position: absolute;
+  right: 1rem;
+  top: 1.75rem;
+  cursor: pointer;
+}
+#button-zone1-edit-assignment {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+#button-zone2-edit-assignment {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.textarea-edit-assignment {
+  border: 1px solid black;
+  resize: none;
+}
+.pagination-edit-assignment {
+  align-items: center;
+}
+
+.search-input-edit-assignment {
+  position: absolute;
+  right: 0.5rem;
+  padding-right: 60px;
+}

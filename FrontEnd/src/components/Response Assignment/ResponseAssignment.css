@@ -1,0 +1,104 @@
+#accept-assignment {
+    position: absolute;
+    font-family: Arial;
+    width: 480px;
+    height: 200px;
+    top: 182px;
+    left: 880px;
+}
+
+.show-response-assignment {
+    display: none;
+}
+
+.response-assignment-header {
+    background-color: rgba(239,241,245,1);
+    border: 1px solid rgba(33,37,41,1);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+}
+
+.response-assignment-header p {
+    padding-left: 50px;
+    padding-top: 12px;
+    white-space: nowrap;
+    text-align: left;
+    line-height: 30px;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(207,35,56,1);
+}
+
+.response-assignment-header .x-btn {
+    margin-left: 160px;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgba(207,35,56,1);
+    line-height: 0;
+    color: rgba(207,35,56,1);
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.response-assignment-body {
+    background-color: rgba(250,252,252,1);
+    border: 1px solid rgba(33,37,41,1);
+}
+
+.response-assignment-body p {
+    margin: 10px 50px;
+    padding-top: 20px;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+
+.response-assignment-body .button-flex {
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+.response-assignment-body .button-flex .accept-btn {
+    width: 85px;
+    height: 37px;
+    margin-right: 5px;
+    background-color: rgba(227,12,24,1);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.response-assignment-body .button-flex .decline-btn {
+    width: 85px;
+    height: 37px;
+    margin-right: 5px;
+    background-color: rgba(227,12,24,1);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.response-assignment-body .button-flex .cancel-btn {
+    width: 85px;
+    height: 37px;
+    margin-left: 5px;
+    background-color: rgba(250,252,252,1);
+    border: 0.5px solid rgba(33,37,41,1);
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}

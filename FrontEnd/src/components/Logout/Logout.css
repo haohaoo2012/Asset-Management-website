@@ -1,0 +1,87 @@
+#logout {
+    position: absolute;
+    font-family: Arial;
+    width: 294px;
+    height: 194px;
+    top: 182px;
+    left: 880px;
+    --web-view-name: Log out;
+    --web-view-id: logout;
+    --web-scale-to-fit: true;
+    --web-scale-to-fit-type: width;
+    --web-scale-on-resize: true;
+    --web-navigate-on-keypress: true;
+    --web-enable-deep-linking: true;
+    --web-page-font: Arial;
+    z-index:1
+}
+
+.show-logout {
+    display: none;
+}
+
+.logout-header {
+    background-color: rgba(239,241,245,1);
+    border: 1px solid rgba(33,37,41,1);
+    border-radius: 6px;
+    padding: 17px 50px;
+}
+
+.logout-header p {
+    white-space: nowrap;
+    text-align: left;
+    line-height: 0;
+    font-family: Segoe UI, Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(207,35,56,1);
+}
+
+.logout-body {
+    background-color: rgba(250,252,252,1);
+    border: 1px solid rgba(33,37,41,1);
+}
+
+.logout-body p {
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 200px;
+    text-align: left;
+    font-family: Helvetica Neue, Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(33,37,41,1);
+}
+
+.logout-body .button-flex {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.logout-body .button-flex .logout-btn {
+    width: 85px;
+    height: 37px;
+    margin-right: 5px;
+    background-color: rgba(227,12,24,1);
+    color: white;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.logout-body .button-flex .cancel-btn {
+    width: 85px;
+    height: 37px;
+    margin-left: 5px;
+    background-color: rgba(250,252,252,1);
+    border: 0.5px solid rgba(33,37,41,1);
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+

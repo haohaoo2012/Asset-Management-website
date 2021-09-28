@@ -1,0 +1,164 @@
+
+.table-content {
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 530px;
+}
+
+.filter{
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 550px;
+}
+
+.filter-state{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.filter-category{
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.search{
+    display: inline-block;
+    position: relative;
+    margin-right: 20px;
+}
+
+.create-asset{
+    display: inline-block;
+}
+
+.filter-state-icon{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.filter-category-icon{
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.search-icon{
+    display: inline-block;
+    position: absolute;
+    top: 4px;
+    right: 5px;
+    padding-left: 4px;
+    border-left: 1px solid #6c757d;
+}
+
+.title{
+    margin-top: 150px;
+    margin-left: 550px;
+    font-size: 20px;
+    color: red;
+}
+
+.search input{
+    border: 1px solid #000;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.paging{
+    float: right;
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.edit-icon, .delete-icon{
+    cursor: pointer;
+}
+
+.paging-page {
+    /* border: 1px solid grey; */
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    /* color: red; */
+    color: #0c0c0c;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.current-page{
+    display: inline-block;
+    cursor: pointer;
+    /* border: 1px solid grey; */
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    /* background-color: red; */
+    background-color: #df146f;
+    border-radius: 5px;
+}
+
+.paging-page:hover {
+    /* color: white; */
+    /* background-color: red; */
+    background-color: #f0ebed;
+    border-radius: 5px;
+}
+
+.fail{
+    margin-top: 50px;
+    margin-left: 550px;
+    width: 50%;
+}
+
+.asset-disable-icon {
+    opacity: 0.5;
+}
+
+.pre-next {
+    /* border: 1px solid grey; */
+    /* width: 80px; */
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    /* color: red; */
+    color: #000000;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+}
+
+.pre-next:hover {
+    background-color: #f0ebed;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.pre-next-disabled {
+    color: grey;
+    cursor: auto;
+    font-weight: bold;
+    font-size: large;
+    pointer-events: none;
+}
+
+.click-button {
+    background-color: transparent;
+}
+
+.close-asset-detail {
+    margin-left: 480px;
+    border: 3px solid red;
+    padding: 0 4px;
+    font-size: 14px;
+    height: 12px;
+    border-radius: 4px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.close-asset-detail:hover {
+    background-color: lightgrey;
+}
